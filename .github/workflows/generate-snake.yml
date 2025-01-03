@@ -10,25 +10,25 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Clona el repositorio
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Genera Snake Animation
         uses: Platane/snk@master
         with:
           github_user_name: Santiago91218
-          output: dist/snake.svg
+          output: snake.svg
 
-      - name: Subir salida generada
-        uses: actions/upload-artifact@v2
+      - name: Subir Snake Animation
+        uses: actions/upload-artifact@v3
         with:
           name: snake
-          path: dist/snake.svg
+          path: snake.svg
 
       - name: Subir archivo generado
         run: |
-          mv dist/snake.svg $GITHUB_WORKSPACE/snake.svg
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -f snake.svg
           git commit -m "Generate Snake Animation"
           git push
+
