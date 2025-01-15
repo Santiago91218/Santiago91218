@@ -35,9 +35,6 @@
 
 ###
 
-<div align="center">
-	<img src="https://streak-stats.demolab.com?user=Santiago91218&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
-</div>
 
 ###
 
@@ -46,5 +43,3 @@
 </div>
 
 ###
-
-![snake gif](https://github.com/Santiago91218/Santiago91218/blob/output/github-contribution-grid-snake.gif)
