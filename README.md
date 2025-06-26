@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋, soy <strong>Santiago Comeglio</strong></h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## 🛠️ Tecnologías que utilizo
 
