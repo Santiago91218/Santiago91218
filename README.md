@@ -85,6 +85,6 @@
 ## 📫 Contacto
 
 - ✉️ Email: santicome05@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/santi-comeglio](https://www.linkedin.com/in/santi-comeglio-935539306/)
+- 💼 LinkedIn: [linkedin.com/in/santiago-comeglio](https://www.linkedin.com/in/santiago-comeglio-935539306/)
 
 ---
