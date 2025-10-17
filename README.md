@@ -63,6 +63,7 @@
 
 ## 🚀 Proyectos destacados
 
+- 🔗 [Tierra Noble](https://github.com/Santiago91218/Frontend-TierraNoble): eCommerce de una bodega con autenticación, panel de administración completo, integración con Mercado Pago y Cloudinary.
 - 🔗 [LOOKz](https://github.com/Santiago91218/Frontend-Ecommerse.git): eCommerce completo con autenticación, gestión y pasarela de pagos.
 - 🔗 [Gestión de Sucursales](https://github.com/Santiago91218/Frontend-GestionSucursales.git): App para administrar empresas, sucursales y productos.
 - 🔗 [ToDoList](https://github.com/Santiago91218/Frontend-ToDoList.git): Gestor de tareas con control de estado y uso de Docker.
