@@ -89,5 +89,6 @@
 
 - ✉️ Email: santicome05@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/santiago-comeglio](https://www.linkedin.com/in/santiago-comeglio-935539306/)
+- 🌐 Portfolio: [santiagocomeglio.netlify.app](https://santiagocomeglio.netlify.app/)
 
 ---
